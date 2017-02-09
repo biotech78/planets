@@ -9,6 +9,7 @@ Made a change here - can you see it?
 - oragnges
 - peaches
 
-1 R
-2 Python
+-1 R
+-2 Python
+
 [Software Carpentry](res) 
